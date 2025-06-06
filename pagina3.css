@@ -1,0 +1,7 @@
+body{
+    background: #141414;
+background: linear-gradient(90deg,rgba(20, 20, 20, 1) 0%, rgba(131, 135, 132, 1) 50%, rgba(255, 255, 255, 1) 100%);
+}
+h1{
+    color: aquamarine;
+}
